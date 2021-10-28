@@ -1,0 +1,12 @@
+Team 1
+Logo: requirements/logo.png
+
+Color Scheme: https://www.canva.com/colors/color-palettes/northern-lights-3/
+
+Required Elements
+Contact Form
+Donation Form
+YouTube Video - https://www.youtube.com/watch?v=nXKYi_kw3NA
+At least 4 images
+
+You can add as many pages you want and those required elements can live wherever you feel works best. 
