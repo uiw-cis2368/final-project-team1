@@ -1,15 +1,15 @@
 # Yasir Documentation
-* Logo color changed drop color using 
-* favicon 
-* add image inside iphone using photoshop 
-* create navbar
-* make css inside asset folder 
-* use bootstrap 
-* do homepage (index.html)
-* Finish Gallery page (images.html) Got the example of  [Gallery] and add images with some CSS edit color and :hover effect on (https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
+* Change Logo color (the drop) to match the background color. using adobe illustrator
+* Create favicon (favicon.ico) 
+* Crop one image ( using Photoshop) and add it inside iPhone in homepage.
+* Create header code to be used in all pages (header.html)
+* Orgnize files ( assets/img and assets/css )
+* Use bootstrap 
+* do homepage (index.html) inspire by this [page](https://epicbootstrap.com/snippets/header-blue) and add button with :hover effect on menu and button. also replace company name with image for logo. 
+* Finish Gallery page (images.html) Got the example of [Gallery](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea) and add images with some CSS edit color and :hover effect on it.
 
 ```
-test
+Color Palettes : https://www.canva.com/colors/color-palettes/northern-lights-3/
 ```
 
 # Raily Documentation
