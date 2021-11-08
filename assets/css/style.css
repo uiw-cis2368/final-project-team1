@@ -184,6 +184,7 @@
   max-width:300px;
   margin:20px;
   display:inline-block;
+  transform: rotate(19deg);
 }
 
 .header-blue .iphone-mockup img.device {
