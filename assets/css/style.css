@@ -218,3 +218,15 @@
   opacity:0.2;
 }
 
+.btn.btn-light.action-button:hover {
+  color: #1dc690;
+  background: white;
+}
+.nav.navbar-nav :hover {
+  color: #eaeae0 !important;
+  /*! text-decoration: khaki; */
+  font-weight: bold;
+  text-decoration-line: overline;
+}
+
+/* Yaisr`s CSS Finished above this comment, Add your CSS code below */
