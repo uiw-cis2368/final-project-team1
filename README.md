@@ -17,6 +17,8 @@ Color Palettes : https://www.canva.com/colors/color-palettes/northern-lights-3/
 
 
 # Michael Documentation
-
-
+* Created contact form.
+* Added CSS to match the color scheme of the page.
+* Removed old CSS file becuase of error with one drive.
+* 
 
