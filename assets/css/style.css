@@ -418,3 +418,15 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
   width: 100%;
 }
+.col-sm-6{ 
+  color: #fff;
+}
+.col-sm-12{
+  color: #fff;
+}
+.panel-heading{
+  color: #fff;
+}
+.col-md-offset-3{
+  color: #fff;
+}
