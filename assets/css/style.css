@@ -7,7 +7,7 @@
 
 @media (min-width:768px) {
   .header-blue {
-    padding-bottom:120px;
+    padding-bottom:31%;
   }
 }
 
@@ -263,7 +263,7 @@
 }
 
 .fcf-body {
-  margin: 0;
+  margin: auto;
   font-family: -apple-system, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -275,7 +275,7 @@
   padding-bottom: 10px;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  max-width: 100%;
+  max-width: 40%;
 }
 
 .fcf-form-group {
@@ -430,3 +430,10 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
 .col-md-offset-3{
   color: #fff;
 }
+
+.panel.panel-default {
+  border: 1px solid #ced4da;
+  border-radius: 1.25rem;
+  padding: 20px;
+  margin: 10px;
+  }
