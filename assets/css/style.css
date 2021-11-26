@@ -143,6 +143,10 @@
   margin-top:20px;
   text-align:center;
 }
+.header-blue .hero .vids {
+
+  margin-left: 35%;
+}
 
 @media (min-width:768px) {
   .header-blue .hero {
