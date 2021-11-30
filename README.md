@@ -21,5 +21,6 @@ Worked on it correlating with running on point with website
 * Created contact form.
 * Added CSS to match the color scheme of the page.
 * Removed old CSS file becuase of error with one drive.
-* 
+* Created donation page
+* Changed color of text from black to white of donation form to make it easier to read
 

@@ -7,7 +7,7 @@
 
 @media (min-width:768px) {
   .header-blue {
-    padding-bottom:120px;
+    padding-bottom:31%;
   }
 }
 
@@ -143,6 +143,10 @@
   margin-top:20px;
   text-align:center;
 }
+.header-blue .hero .vids {
+
+  margin-left: 35%;
+}
 
 @media (min-width:768px) {
   .header-blue .hero {
@@ -256,28 +260,26 @@
 
 
 
-
-
 /* Michael's CSS for contact form */ 
 #fcf-form {
   display:block;
+  color: #fff;
 }
 
 .fcf-body {
-  margin: 0;
+  margin: auto;
   font-family: -apple-system, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background:linear-gradient(135deg, #172a74, #21a9af);
   background-color: #184e8e;
   padding: 30px;
   padding-bottom: 10px;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  max-width: 100%;
+  max-width: 40%;
 }
 
 .fcf-form-group {
@@ -420,3 +422,26 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
   width: 100%;
 }
+
+
+
+/* Michael's CSS for donation form */ 
+.col-sm-6{ 
+  color: #fff;
+}
+.col-sm-12{
+  color: #fff;
+}
+.panel-heading{
+  color: #fff;
+}
+.col-md-offset-3{
+  color: #fff;
+}
+
+.panel.panel-default {
+  border: 1px solid #ced4da;
+  border-radius: 1.25rem;
+  padding: 20px;
+  margin: 10px;
+  }
