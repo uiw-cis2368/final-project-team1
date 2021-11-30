@@ -1,1 +1,26 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6133038&assignment_repo_type=AssignmentRepo)
+# Yasir Documentation
+* Change Logo color (the drop) to match the background color. using adobe illustrator
+* Create favicon (favicon.ico) 
+* Crop one image ( using Photoshop) and add it inside iPhone in homepage.
+* Create header code to be used in all pages (header.html)
+* Orgnize files ( assets/img and assets/css )
+* Use bootstrap 
+* do homepage (index.html) inspire by this [page](https://epicbootstrap.com/snippets/header-blue) and add button with :hover effect on menu and button. also replace company name with image for logo. 
+* Finish Gallery page (images.html) Got the example of [Gallery](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea) and add images with some CSS edit color and :hover effect on it.
+
+```
+Color Palettes : https://www.canva.com/colors/color-palettes/northern-lights-3/
+```
+
+# Riley Documentation
+Able to put youtube video on our website
+Pushes it out to dev
+Worked on it correlating with running on point with website
+
+# Michael Documentation
+* Created contact form.
+* Added CSS to match the color scheme of the page.
+* Removed old CSS file becuase of error with one drive.
+* Created donation page
+* Changed color of text from black to white of donation form to make it easier to read
+
